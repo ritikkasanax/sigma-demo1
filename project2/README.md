@@ -1,2 +1,2 @@
-# New oproject
-This my new project for local system
+# New project
+This my first local project for local system
